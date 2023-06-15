@@ -1,0 +1,154 @@
+{
+  "groceryItems": [
+    {
+      "name": "Apple",
+      "variants": [
+        {
+          "name": "Red Apple",
+          "price": 0.99
+        },
+        {
+          "name": "Green Apple",
+          "price": 1.29
+        },
+        {
+          "name": "Golden Apple",
+          "price": 1.49
+        }
+      ]
+    },
+    {
+      "name": "Banana",
+      "variants": [
+        {
+          "name": "Yellow Banana",
+          "price": 0.49
+        },
+        {
+          "name": "Green Banana",
+          "price": 0.59
+        }
+      ]
+    },
+    {
+      "name": "Carrot",
+      "variants": [
+        {
+          "name": "Regular Carrot",
+          "price": 0.79
+        },
+        {
+          "name": "Organic Carrot",
+          "price": 1.29
+        }
+      ]
+    },
+    {
+      "name": "Tomato",
+      "variants": [
+        {
+          "name": "Roma Tomato",
+          "price": 0.89
+        },
+        {
+          "name": "Cherry Tomato",
+          "price": 1.99
+        },
+        {
+          "name": "Beefsteak Tomato",
+          "price": 1.49
+        }
+      ]
+    },
+    {
+      "name": "Lettuce",
+      "variants": [
+        {
+          "name": "Iceberg Lettuce",
+          "price": 0.99
+        },
+        {
+          "name": "Romaine Lettuce",
+          "price": 1.29
+        }
+      ]
+    },
+    {
+      "name": "Milk",
+      "variants": [
+        {
+          "name": "Whole Milk",
+          "price": 2.99
+        },
+        {
+          "name": "2% Reduced Fat Milk",
+          "price": 2.49
+        },
+        {
+          "name": "Skim Milk",
+          "price": 1.99
+        }
+      ]
+    },
+    {
+      "name": "Bread",
+      "variants": [
+        {
+          "name": "White Bread",
+          "price": 1.99
+        },
+        {
+          "name": "Whole Wheat Bread",
+          "price": 2.49
+        },
+        {
+          "name": "Multigrain Bread",
+          "price": 2.99
+        }
+      ]
+    },
+    {
+      "name": "Eggs",
+      "variants": [
+        {
+          "name": "Large Eggs (12 pack)",
+          "price": 2.99
+        },
+        {
+          "name": "Medium Eggs (12 pack)",
+          "price": 2.49
+        }
+      ]
+    },
+    {
+      "name": "Chicken",
+      "variants": [
+        {
+          "name": "Boneless Skinless Chicken Breast",
+          "price": 4.99
+        },
+        {
+          "name": "Whole Chicken",
+          "price": 3.49
+        }
+      ]
+    },
+    {
+      "name": "Rice",
+      "variants": [
+        {
+          "name": "Basmati Rice (1 kg)",
+          "price": 3.99
+        },
+        {
+          "name": "Jasmine Rice (1 kg)",
+          "price": 2.99
+        },
+        {
+          "name": "Brown Rice (1 kg)",
+          "price": 4.49
+        }
+      ]
+    }
+  ]
+}
